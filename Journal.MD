@@ -4,11 +4,9 @@
 
 ## March 30, 2026 - Ideation & Research
 
-Today I worked on researching what I want to make and what ICs I'm going to pick. it seems that I have decided on 555 being a simple oscillator and 4017 for counters.
+Today I worked on researching what I want to make and what ICs I'm going to pick. it seems that I have decided on 555 being a simple oscillator and 4017 for counters. When I got into KiCad there was NE555P and NE555D. I searched it up and one is surface mount while the other one is through hole. I dont plan on having a lot of layers, so I picked the through hole which is NE555P.
 
 ![image](image.png)
-
-I ran into this issue, so I researched it and found X.
 
 ### Time Spent: X Hours
 
