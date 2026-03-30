@@ -8,6 +8,8 @@ Today I worked on researching what I want to make and what ICs I'm going to pick
 
 ![image](image.png)
 
+Decided to go with 4017 the base 10 variant. More outputs would probably suit a lot of LEDs.
+
 ### Time Spent: X Hours
 
 ## Date - [Heading]
