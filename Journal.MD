@@ -2,9 +2,9 @@
 
 [Preface] I'm building X because of Y.
 
-## Date - [Heading]
+## March 30, 2026 - Ideation & Research
 
-Today I worked on X.
+Today I worked on researching what I want to make and what ICs I'm going to pick. it seems that I have decided on 555 being a simple oscillator and 4017 for counters.
 
 ![image](image.png)
 
