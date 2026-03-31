@@ -15,7 +15,7 @@ I found some information of an example LED circuit. This is very simple.
 
 ![image](attachments/LED-chaser-circuit.png)
 
-I will reference this and adjust resistor values as needd to change the rate of the LED oscillation.
+I will reference this and adjust resistor values as needed to change the rate of the LED oscillation.
 ### Time Spent: 1 Hours
 
 ## Date - [Heading]
