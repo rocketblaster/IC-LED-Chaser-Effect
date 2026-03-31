@@ -4,7 +4,7 @@ This is an LED chaser effect with a custom shaped PCB edge cut. It uses NE555 an
 
 ![3D PCB Image](./path/to/image.png)
 
-{Yap about how it works}
+How this will work is the LEDs will light up in a pattern and basically feel like it is chasing something bouncing back and forth.
 
 ---
 ## Schematic
