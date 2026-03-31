@@ -1,6 +1,6 @@
 # Project Name
 
-[Preface] I'm building X because of Y.
+I'm building an LED chaser circuit using 555 timer and a 4017 to create an LED chaser effect. The outline of the PCB will be the shape of an animal to be continued.
 
 ## March 30, 2026 - Ideation & Research
 
