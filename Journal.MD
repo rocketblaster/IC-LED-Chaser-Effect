@@ -52,4 +52,12 @@ I made small adjusts for the astable IC circuit. Another problem I will deal wit
 
  ![image](attachments/image6.png)
 
- ### Time Spent: 1 Hours
+I think I want to leave pin 5 connected to a 0.01u capacitor to ground. So I made it that way. I picked a 330 resistor for the LEDs at the end since I plan on a 5v supply. I added a connector so I can provide a power source to the PCB.
+
+ ![image](attachments/image7.png)
+
+ The schematic is now organized I think I can move onto the PCB. I built it by following various tutorials and implemented a potentiometer because I want to change the output of the timer between what seems to be pins 2 and 1.
+
+ ![image](attachments/image8.png)
+ 
+ ### Time Spent: 1.5 Hours
