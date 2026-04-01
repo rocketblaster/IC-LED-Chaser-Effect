@@ -64,4 +64,8 @@ I think I want to leave pin 5 connected to a 0.01u capacitor to ground. So I mad
 
   ![image](attachments/image9.png)
 
+  So I fixed it by adding power flags and it made the Design Rules Checker happy!
+
+ ![image](attachments/image10.png)
+
  ### Time Spent: 1.5 Hours
