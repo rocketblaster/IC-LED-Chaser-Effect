@@ -35,4 +35,5 @@ I read through the data sheet and researched the pinouts for what they mean, for
 I made small adjusts for the astable IC circuit. Another problem I will deal with is the timing, do I want my LED to flash rapidly or slowly? I will find a software or website that calculates the timing for the LEDs so I can adjust my resistors or capacitors as needed. I changed my schematic to be a little more organized, because a lot of the circuits I see is in one big series loop.
 
 ![image](attachments/image4.png)
-### Time Spent: X Hours
+
+### Time Spent: 0.5 Hours
