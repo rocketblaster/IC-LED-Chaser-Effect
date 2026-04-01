@@ -28,7 +28,7 @@ For now I want to work on the basics so I tried to set up my 10 output of LEDs.
 
 ![image](attachments/image2.png)
 
-I read through the data sheet and researched the pinouts for what they mean, for example pin 8 for 4017 leads to ground. I'm not going to use pin 12 for 4017 because I'm not going beyond the 10 counter.
+I read through the data sheet and researched the pinouts for what they mean, for example pin 8 for 4017 leads to ground. I'm not going to use pin 12 for 4017 because I'm not going beyond the 10 counter. I ran into a problem because I don't know where it can be connected to. I searched it up and google told me to just leave it there and it seems like I don't have a place to connect it besides another 4017.
 
 ![image](attachments/image3.png)
 ### Time Spent: X Hours
