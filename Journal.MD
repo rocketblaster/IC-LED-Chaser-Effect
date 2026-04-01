@@ -59,5 +59,9 @@ I think I want to leave pin 5 connected to a 0.01u capacitor to ground. So I mad
  The schematic is now organized I think I can move onto the PCB. I built it by following various tutorials and implemented a potentiometer because I want to change the output of the timer between what seems to be pins 2 and 1.
 
  ![image](attachments/image8.png)
- 
+
+ When I tested out the Design Rules Checker, I ran into a problem where my "input power pin not driven by any output power pin" I tried to do that via a connector but that didn't work.
+
+  ![image](attachments/image9.png)
+
  ### Time Spent: 1.5 Hours
