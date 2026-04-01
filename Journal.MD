@@ -18,7 +18,7 @@ I found some information of an example LED circuit. This is very simple.
 I will reference this and adjust resistor values as needed to change the rate of the LED oscillation.
 ### Time Spent: 1 Hours
 
-## March 31 - More researching...
+## March 31, 2026 - More researching...
 
 I do want to as some personal touches to my PCB led chaser and I think I'll make a ring of LEDs around a jelly fish shape! I love jellies and they glow :D It's been a hefty week despite being on well not spring break. I'm on spring break but I still have class as a dual enrollment student.
 
