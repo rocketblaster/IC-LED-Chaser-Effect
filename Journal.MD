@@ -48,4 +48,8 @@ I made small adjusts for the astable IC circuit. Another problem I will deal wit
 
  ![image](attachments/image5.png)
 
+ Ran into a problem with wiring the diagram in general because I can't end my wire if I don't have a component. I found out that I needed to place the LED and then wire around it.
+
+ ![image](attachments/image6.png)
+
  ### Time Spent: 0.5 Hours
