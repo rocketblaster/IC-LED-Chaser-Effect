@@ -42,4 +42,4 @@ I made small adjusts for the astable IC circuit. Another problem I will deal wit
  
  I continued to make adjusts to my circuit. I decided to change my reference because i wanted to get a raindrop effect type LEDs. They light up like a music stereo if I can describe like that. With a few adjustments obviously and it is not 1:1
 
- ![image](image.png)
+ ![image](attachments/8-LED-Light-Sequencer-Circuit.png.png)
