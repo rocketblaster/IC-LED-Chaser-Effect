@@ -52,4 +52,4 @@ I made small adjusts for the astable IC circuit. Another problem I will deal wit
 
  ![image](attachments/image6.png)
 
- ### Time Spent: 0.5 Hours
+ ### Time Spent: 1 Hours
