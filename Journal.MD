@@ -24,6 +24,8 @@ I do want to as some personal touches to my PCB led chaser and I think I'll make
 
 Honestly to save time and learn I'm going to start using a simple blinky board tutorial from Blueprint event so I hope it helps. I plan on making multiple LEDs light up at a time and it seems I just need to connect them both to the specific output.
 
+For now I want to work on the basics so I tried to set up my 10 output of LEDs.
+
 ![image](image.png)
 
 ### Time Spent: X Hours
