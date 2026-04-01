@@ -26,6 +26,6 @@ Honestly to save time and learn I'm going to start using a simple blinky board t
 
 For now I want to work on the basics so I tried to set up my 10 output of LEDs.
 
-![image](image2.png)
+![image](attachments/image2.png)
 
 ### Time Spent: X Hours
