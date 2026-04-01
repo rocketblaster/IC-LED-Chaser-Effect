@@ -28,4 +28,6 @@ For now I want to work on the basics so I tried to set up my 10 output of LEDs.
 
 ![image](attachments/image2.png)
 
+I read through the data sheet and researched the pinouts for what they mean, for example pin 8 for 4017 leads to ground.
+
 ### Time Spent: X Hours
