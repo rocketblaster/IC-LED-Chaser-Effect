@@ -20,7 +20,9 @@ I will reference this and adjust resistor values as needed to change the rate of
 
 ## March 31 - More researching...
 
-I do want to as some personal touches to my PCB led chaser and I think I'll make a ring of LEDs around a jelly fish shape! I love jellies and they glow :D
+I do want to as some personal touches to my PCB led chaser and I think I'll make a ring of LEDs around a jelly fish shape! I love jellies and they glow :D It's been a hefty week despite being on well not spring break. I'm on spring break but I still have class as a dual enrollment student.
+
+Honestly to save time and learn I'm going to start using a simple blinky board tutorial from Blueprint event so I hope it helps. I plan on making multiple LEDs light up at a time and it seems I just need to connect them both to the specific output.
 
 ![image](image.png)
 
