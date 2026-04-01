@@ -40,6 +40,12 @@ I made small adjusts for the astable IC circuit. Another problem I will deal wit
 
 ## April 1, 2026 - Time to get locked into to one idea
  
- I continued to make adjusts to my circuit. I decided to change my reference because i wanted to get a raindrop effect type LEDs. They light up like a music stereo if I can describe like that. With a few adjustments obviously and it is not 1:1
+ I continued to make adjusts to my circuit. I decided to change my reference because i wanted to get a raindrop effect type LEDs. They light up like a music stereo if I can describe like that. With a few adjustments obviously and it is not 1:1. Obviously me searching up keywords like "cool LED rain chaser effect" or something like that didn't work. So I had to not rely on youtube videos despite seeing the results and some were not what I was expecting.
 
  ![image](attachments/led-chaser-by-ic-4017-ic-555.jpg)
+
+ This is my circuit so far, and despite the data sheet saying to leave pin 5 open in the 555, many of the schamatics I saw gave it a small sized capacitor, so it stores a very tiny amount of energy in there. I also linked all of the LEDs together leading to one resistor. My problem is trying to deciding the timing so and I saw one of the resistors was 50k, that big to control the flow?
+
+ ![image](attachments/image5.png)
+
+ ### Time Spent: 0.5 Hours
