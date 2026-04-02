@@ -74,6 +74,6 @@ I am sure that this is my final. I picked a low resistor at the end of the LED c
 
  Anyhow I updated my PCB from schematic. I can't wait to come up with a PCB outline though within the constraint of 100x100m. This is also a time to start planning a layout with all of my leds hehe. That's after assigning my footprints, I followed another guide which used slightly different footprint for the resistor size, but I researched and people on some forums told me its okay but a little risky due to the size of the holes. It should work though in my personal opinion so I stuck with it.
  
- ![image](attachments/image11.png)
+ ![image](attachments/image12.png)
 
  ### Time Spent: 1.5 Hours
