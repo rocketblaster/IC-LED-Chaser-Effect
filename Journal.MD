@@ -72,4 +72,6 @@ I am sure that this is my final. I picked a low resistor at the end of the LED c
 
  ![image](attachments/image11.png)
 
+ Anyhow I updated my PCB from schematic. I can't wait to come up with a PCB outline though within the constraint of 100x100m. This is also a time to start planning a layout with all of my leds hehe.
+
  ### Time Spent: 1.5 Hours
