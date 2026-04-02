@@ -68,4 +68,8 @@ I think I want to leave pin 5 connected to a 0.01u capacitor to ground. So I mad
 
  ![image](attachments/image10.png)
 
+I am sure that this is my final. I picked a low resistor at the end of the LED chain so some current can flow through resulting in average brightness and a 50k potentiometer to adjust.
+
+ ![image](attachments/image11.png)
+
  ### Time Spent: 1.5 Hours
