@@ -86,6 +86,12 @@ Earlier on, the circuit I picked is mostly based on the astable circuit data she
 
 I searched up what the battery cell would look like but it would take a lot of space so I reverted back to the pin connectors.
 
+![image](attachments/image13.png)
+
 Anyhow going back to square one to where I was on the pcb editor, I am going to trace an outline of a cherry blossom flower. Obviously I'd need to convert from mm to pixels for what editor software I am using to trace the outline into SVG for the moment.
 
-![image](attachments/image13.png)
+I created a flower shaped outline for my LED chaser.
+
+![image](attachments/image14.png)
+
+## Time Spent 1 Hour
