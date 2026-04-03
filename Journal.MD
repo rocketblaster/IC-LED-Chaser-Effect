@@ -1,6 +1,6 @@
 # Project Name
 
-I'm building an LED chaser circuit using 555 timer and a 4017 to create an LED chaser effect. The outline of the PCB will be the shape of an animal to be continued.
+I'm building an LED chaser circuit using 555 timer and a 4017 to create an LED chaser effect. The outline of the PCB will be the shape of an animal to be continued. However I changed it to be a flower later on for simplicity's sake.
 
 ## March 30, 2026 - Ideation & Research
 
