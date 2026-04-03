@@ -82,4 +82,4 @@ I am sure that this is my final. I picked a low resistor at the end of the LED c
 
  I am thinking of changing my JST connector to a battery coin instead, if there is enough space on the PCB, which there shoud be obviously. For sometime I sketched out a dog PCB with the idea of the LEDs aroudn the dog. I feel like it is not that great so I am going to change the outline to a flower because it's like a circular LED chaser circuit.
 
-Earlier on, the circuit I picked is mostly based on the astable circuit data sheet for the 555 timer.
+Earlier on, the circuit I picked is mostly based on the astable circuit data sheet for the 555 timer. I wanted to pick a battery terminal, but in the library I noticed battery and battery cell. I searched it up but also found it in the description. I will probably go with a battery cell as it is a single cell.
