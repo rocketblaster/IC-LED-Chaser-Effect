@@ -13,7 +13,7 @@ How this will work is the LEDs will light up in a pattern and basically feel lik
 
 ## PCB
 
-![PCB Image](./path/to/PCB.png)
+![PCB Image](attachments/image23.png)
 
 ---
 
