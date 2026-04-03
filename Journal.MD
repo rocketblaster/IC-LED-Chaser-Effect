@@ -77,3 +77,7 @@ I am sure that this is my final. I picked a low resistor at the end of the LED c
  ![image](attachments/image12.png)
 
  ### Time Spent: 1.5 Hours
+
+ ## April 2nd, 2026 - Final Iterations & PCB editing
+
+ I am thinking of changing my JST connector to a battery coin instead, if there is enough space on the PCB, which there shoud be obviously. For sometime I sketched out a dog PCB with the idea of the LEDs aroudn the dog. I feel like it is not that great so I am going to change the outline to a flower because it's like a circular LED chaser circuit.
