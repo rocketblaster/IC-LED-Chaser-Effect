@@ -114,4 +114,8 @@ I changed the orientation of LEDs on one side so the traces don't overlap, might
 
 ![image](attachments/image18.png)
 
+I'm going to test out the traces for this layout now after following my schematic and placing important signal components together
+
+![image](attachments/image19.png)
+
 ### Time Spent: 0.5 Hours
