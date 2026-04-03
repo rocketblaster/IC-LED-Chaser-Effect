@@ -110,4 +110,8 @@ Started to arrange the layout, goal is to have LEDs on the petals. Unforunately 
 
 ![image](attachments/image17.png)
 
+I changed the orientation of LEDs on one side so the traces don't overlap, might use the bottom layer though. I also changed the diodes order to whichever is closest.
+
+![image](attachments/image18.png)
+
 ### Time Spent: X Hours
