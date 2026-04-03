@@ -1,6 +1,6 @@
 # LED Chaser Effect PCB
 
-This is an LED chaser effect with a custom shaped PCB edge cut of a flower. It uses NE555 and CD4017 integrated circuits to achieve this effect.
+This is an LED chaser effect with a custom shaped PCB edge cut of a flower. It uses NE555 and CD4017 integrated circuits to achieve this effect. I made this because I want to experiment with integrated circuits and create an LED that lights up in a pattern or so through these chips.
 
 ![3D PCB image front](attachments/image24.png)
 ![3D PCB image back](attachments/image25.png)
