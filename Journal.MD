@@ -118,4 +118,8 @@ I'm going to test out the traces for this layout now after following my schemati
 
 ![image](attachments/image19.png)
 
+My layout might need some not work but I think it is so annoying trying to route all of these connections going from one resistor to 10 different leds. I think I will do what is a called a filled zone so everything is one big trace.
+
+![image](attachments/image20.png)
+
 ### Time Spent: 0.5 Hours
