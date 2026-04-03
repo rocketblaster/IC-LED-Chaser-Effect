@@ -9,7 +9,7 @@ How this will work is the LEDs will light up in a pattern and basically feel lik
 ---
 ## Schematic
 
-![Schematic Image](./path/to/schematic.png)
+![Schematic Image](attachments/image10.png)
 
 ## PCB
 
