@@ -130,4 +130,8 @@ This one wouldn't go in. I am going to rotate my pontentiometer for this reason 
 
 ![image](attachments/image22.png)
 
+After some Design Rules Checker test, I ran into a few problems but they were minor and mostly overlapping traces over solder masks, so I readjusted as needed. I think this is my PCB and I'm hopefully done with it.
+
+![image](attachments/image23.png)
+
 ### Time Spent: 1.5 Hours
