@@ -122,4 +122,8 @@ My layout might need some not work but I think it is so annoying trying to route
 
 ![image](attachments/image20.png)
 
+Things are not looking good for the LEDs on the right side, have to deal with unnecessarily long traces. I think I'll do ground pour with some ground traces and rebuild it as there is no space on the top.
+
+![image](attachments/image21.png)
+
 ### Time Spent: 0.5 Hours
