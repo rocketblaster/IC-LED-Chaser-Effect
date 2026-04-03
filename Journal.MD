@@ -90,7 +90,7 @@ I searched up what the battery cell would look like but it would take a lot of s
 
 Anyhow going back to square one to where I was on the pcb editor, I am going to trace an outline of a cherry blossom flower. Obviously I'd need to convert from mm to pixels for what editor software I am using to trace the outline into SVG for the moment.
 
-I created a flower shaped outline for my LED chaser.
+I created a flower shaped outline for my LED chaser. This time I added a 100x100m box to make sure it fits within the constraint! I hope I can fit my components on there!
 
 ![image](attachments/image14.png)
 
