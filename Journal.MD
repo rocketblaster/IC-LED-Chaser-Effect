@@ -94,4 +94,4 @@ I created a flower shaped outline for my LED chaser. This time I added a 100x100
 
 ![image](attachments/image14.png)
 
-## Time Spent 1 Hour
+## Time Spent: 1 Hour
