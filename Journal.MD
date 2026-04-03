@@ -84,4 +84,6 @@ I am sure that this is my final. I picked a low resistor at the end of the LED c
 
 Earlier on, the circuit I picked is mostly based on the astable circuit data sheet for the 555 timer. I wanted to pick a battery terminal, but in the library I noticed battery and battery cell. I searched it up but also found it in the description. I will probably go with a battery cell as it is a single cell.
 
+I searched up what the battery cell would look like but it would take a lot of space so I reverted back to the pin connectors.
+
 ![image](attachments/image13.png)
