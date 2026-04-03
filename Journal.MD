@@ -76,7 +76,7 @@ I am sure that this is my final. I picked a low resistor at the end of the LED c
  
  ![image](attachments/image12.png)
 
- ### Time Spent: 1.5 Hours
+ ### Time Spent: 2 Hours
 
  ## April 2nd, 2026 - Final Iterations & PCB editing
 
