@@ -134,4 +134,9 @@ After some Design Rules Checker test, I ran into a few problems but they were mi
 
 ![image](attachments/image23.png)
 
+The 3d PCB is here for the preview.
+
+![image](attachments/image24.png)
+![image](attachments/image25.png)
+
 ### Time Spent: 1.5 Hours
