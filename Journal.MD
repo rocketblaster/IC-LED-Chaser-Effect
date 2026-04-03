@@ -122,8 +122,12 @@ My layout might need some not work but I think it is so annoying trying to route
 
 ![image](attachments/image20.png)
 
-Things are not looking good for the LEDs on the right side, have to deal with unnecessarily long traces. I think I'll do ground pour with some ground traces and rebuild it as there is no space on the top.
+Things are not looking good for the LEDs on the right side, have to deal with unnecessarily long traces. I think I'll do ground pour with some ground traces and rebuild it as there is no space on the top. I ended up with traces from D9 and D8 going to U2. However I think it is the most optimal so far I can get to.
 
 ![image](attachments/image21.png)
 
-### Time Spent: 0.5 Hours
+This one wouldn't go in. I am going to rotate my pontentiometer for this reason I design it this way. I ended up rotating my resistor though and it sorts of works. Due to the lack of space, I am moving some net wires to the bottom layer and using the rebuilding each time I add a new trace.
+
+![image](attachments/image22.png)
+
+### Time Spent: 1.5 Hours
