@@ -106,4 +106,10 @@ Added Edge Cuts outline and started to iterate on the most optimal layput
 
 ![image](attachments/image16.png)
 
+Started to arrange the layout, goal is to have LEDs on the petals. Unforunately as I follow the blue lines they're pretty far so I'll have to rearrange the IC pins to be close to the LEDs.
+
+Imported to the SVG, tried aligning but no point as long as it is within the constraint of the square. Time to start laying out.
+
+![image](attachments/image17.png)
+
 ### Time Spent: X Hours
