@@ -139,4 +139,6 @@ The 3d PCB is here for the preview.
 ![image](attachments/image24.png)
 ![image](attachments/image25.png)
 
+And so I realize my order for the LED is off. It's okay! I'll check next time and it might not light up in the correct order due to the pin not being numerical
+
 ### Time Spent: 1.5 Hours
