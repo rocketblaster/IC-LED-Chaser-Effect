@@ -94,8 +94,12 @@ I created a flower shaped outline for my LED chaser. This time I added a 100x100
 
 ![image](attachments/image14.png)
 
-Imported to the SVG, tried aligning but no point as long as it is within the constraint of the square.
+### Time Spent: 1 Hour
+
+## April 3rd, 2026 - PCB layout and Fabrication
+
+Imported to the SVG, tried aligning but no point as long as it is within the constraint of the square. Time to start laying out.
 
 ![image](attachments/image15.png)
 
-## Time Spent: 1 Hour
+### Time Spent: X Hours
