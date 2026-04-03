@@ -114,4 +114,4 @@ I changed the orientation of LEDs on one side so the traces don't overlap, might
 
 ![image](attachments/image18.png)
 
-### Time Spent: X Hours
+### Time Spent: 0.5 Hours
